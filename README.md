@@ -2,7 +2,7 @@
 
 To clone this repository:
 
-`git clone https://github.com/ammonk/simple-angular.git`
+`git clone https://github.com/ammonk/simple-angular-http.git`
 
 ## To run the application
 
